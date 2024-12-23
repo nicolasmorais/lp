@@ -1,0 +1,10 @@
+Uri: https://organiz.infy.uk/
+File Name: C:\Downloaded Web Sites\organiz.infy.uk\index-1.htm
+Content Type: text/html
+
+Uri: https://organiz.infy.uk/aes.js
+File Name: C:\Downloaded Web Sites\organiz.infy.uk\aes-1.js
+Content Type: application/javascript
+
+nt Type: text/html
+
